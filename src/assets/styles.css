@@ -3,7 +3,7 @@ body {
   margin: 0;
 }
 
-/*estilo del cuerpo*/
+/* estilo del cuerpo */
 body::before {
   content: " ";
   position: fixed;
